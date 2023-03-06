@@ -1,0 +1,18 @@
+﻿  Cube.cpp
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(424,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(429,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(437,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(442,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(450,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(455,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(618,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\WIN10\source\repos\Cube\Cube\Cube.cpp(619,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Cube.vcxproj -> C:\Users\WIN10\source\repos\Cube\Debug\Cube.exe
